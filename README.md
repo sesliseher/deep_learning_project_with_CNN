@@ -54,6 +54,7 @@ Gelecekte yapılabilecekler:
 
 ## Linkler
 Kaggle Notebook: https://www.kaggle.com/code/sehersesli/garbage-classification-with-cnn
+
 Veri Seti: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 
 
